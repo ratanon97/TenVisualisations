@@ -37,3 +37,4 @@ plt.title("Drugs Data for Patients", fontsize = 16)
 plt.xlabel("Patients' Blood Pressure Type",fontsize = 10)
 plt.ylabel('Number of Patients',fontsize = 10)
 plt.show()
+#Pie Chart
